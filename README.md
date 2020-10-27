@@ -1,2 +1,4 @@
 # USRowingCapstone
+<img src="figs/maxresdefault.jpg" width="1000">
+
 Capstone project focusing on creating a dashboard for the US Rowing Olympic team
