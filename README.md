@@ -29,3 +29,5 @@ The factors that could have affected these results:
 ## Training scheduling and workflow management 
 In order to best prepare teams for success in competition, our team proposed a system of tracking performance based data with the mental health aspect of an athletes preparation for competition. 
 
+#### Diagram of the high level workflow proposed: 
+<img src='Docs/Workflow.PNG' width='1000'>
